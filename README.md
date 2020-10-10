@@ -7,6 +7,10 @@ YOLO uses convolutional neural network (CNN) for doing object detection in real-
 
 [YOLOv3](https://arxiv.org/abs/1804.02767v1) came as imporvement on the original paper since YOLOv1 was not accurate with small objects. 
 
+![](architecture.png)
+
+                                            Architecture
+
 #### Implementation
 I have used pre-trained weights on COCO dataset and configuration file which can be downloaded from [here](https://pjreddie.com/darknet/yolo/).
 
